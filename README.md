@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="whoami: coo by day, tooling pro by night" width="100%">
+  <img src="banner.gif" alt="whoami: coo by day, tooling pro by night" width="100%">
 </p>
 
 <p align="center">
@@ -12,17 +12,11 @@
 
 <p align="center">Sales · Operations · Local-first agent infrastructure · Creative tools</p>
 
-<p align="center">
-  <a href="https://www.triumphcapitalmanagement.com"><img src="https://img.shields.io/badge/Triumph_Capital_Management-14283F?style=for-the-badge" alt="Triumph Capital Management"></a>
-  <a href="https://calyxion.com"><img src="https://img.shields.io/badge/Calyxion-111111?style=for-the-badge" alt="Calyxion"></a>
-  <a href="https://github.com/Triumph-Capital-Management"><img src="https://img.shields.io/badge/GitHub_Org-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Triumph Capital Management on GitHub"></a>
-</p>
-
 ---
 
 ### 👋 About me
 
-Chief Operating Officer at **Triumph Capital Management**, an SEC-registered advisory firm. I live where sales, operations and agentic tooling converge, and I'm a tooling pro at heart: if a workflow repeats, I'm already building the thing that runs it.
+**Chief Operating Officer** at an SEC-registered advisory firm. I live where sales, operations and agentic tooling converge, and I'm a tooling pro at heart: if a workflow repeats, I'm already building the thing that runs it.
 
 My favorite problem right now: agents that do real work **without leaving the building**. They run on firm machines, read firm systems through read-only connectors, and hand people finished work instead of another tab to check.
 
@@ -38,7 +32,7 @@ My favorite problem right now: agents that do real work **without leaving the bu
 
 **🧭 Advisor Portal**<br>
 One home for advisors: households, accounts, action items and client intake.<br>
-<sub><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> · <a href="https://tcm.calyxion.com">tcm.calyxion.com</a></sub>
+<sub><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +93,7 @@ Recurring reviews and audits rebuilt as repeatable pipelines.<br>
 </tr>
 </table>
 
-<sub>Most of this lives in private repositories, because firm systems stay private.</sub>
+<sub>Most of this lives in private repositories. Firm systems stay private.</sub>
 
 ### ⚙️ Stack
 
